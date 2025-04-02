@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 The Plane War Game is a classic arcade-style video game that typically involves 
 players controlling aircraft to combat against enemy planes. 
 Players usually navigate their planes through hiding enemy fire, and engaging in 
